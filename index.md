@@ -20,7 +20,7 @@
 
 ---
 [ THIS IS MY RESUME](/images/Resume1.0-2.pdf)
-<img src="images/images.jpg?raw=true"/>
+<img src="images/images.png?raw=true"/>
 
 ---
 
