@@ -1,10 +1,14 @@
 title: Ankita Duttagupta # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/ankita.png.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  Hello! I am Ankita Duttagupta.
+
+  Curious to understand systems at the fundamental level. Passionate for solving real-world technical challenges. Interested in building robust and efficient Machine Learning, Data Science, NLP.
   This is my Github Portfolio, feel free to explore around!
   <br><br>
   Second description 
   <br><br>
   <a href="www.linkedin.com/in/ankitadg97">View My LinkedIn Profile</a> 
+  <a href="ankitadg97@gmail.com">View My Gmail ID</a> 
   
 theme: jekyll-theme-minimal
