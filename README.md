@@ -1,4 +1,6 @@
-personal portfolio  based on github pages-- under construction
+# *Personal Portfolio*  
+
+(based on github pages-- under construction)
 
 ### References
 
