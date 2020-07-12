@@ -9,10 +9,10 @@
 
 ---
 [HAPTIK CHATDATA ANALYSIS- 1](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/images (1).png?raw=true"/>
   
  [HAPTIK CHATDATA ANALYSIS- 2](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/images (2).png?raw=true"/>
 
 ---
 [FINANCIAL DELINQUENCY PREDICTION](http://example.com/)
