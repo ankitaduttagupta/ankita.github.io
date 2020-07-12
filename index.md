@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/presentation.pptx)
+[Project 1 Title](/presentation.pdf)
 <img src="images/mahindra-first-choice-services-n-24fd7c555c.jpg?raw=true"/>
 
 ---
